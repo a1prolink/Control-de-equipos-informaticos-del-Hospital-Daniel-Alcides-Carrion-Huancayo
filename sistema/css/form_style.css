@@ -1,0 +1,68 @@
+.form_register {
+    width: 50%;
+    margin: auto;
+    background: #FFF;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.form_register h1 {
+    text-align: center;
+}
+
+.form_register hr {
+    margin: 10px 0;
+}
+
+.alert {
+    width: 100%;
+    background: #66e07d;
+    color: #333;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.msg_error {
+    color: red;
+}
+
+.msg_save {
+    color: green;
+}
+
+.form_register label {
+    display: block;
+    font-weight: bold;
+    padding: 10px 0 5px;
+}
+
+.form_register input,
+.form_register select {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.combo_box {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.photo {
+    margin-top: 10px;
+}
+
+.btn_save {
+    display: block;
+    width: 48%;
+    background: #005eff;
+    color: #FFF;
+    padding: 10px;
+    font-size: 18px;
+    border: 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
